@@ -1,0 +1,10 @@
+
+=== Mon Feb 13 23:55:09 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.6.4
+  com.unity.inputsystem@1.0.2
+  com.unity.render-pipelines.high-definition@10.5.0
